@@ -40,8 +40,4 @@ render_path = /path/to/render
 file_name = output.pdf
 ```
 
-## Notes
-- The script may need adjustments based on the specific structure of the MuseScore webpage.
-- Ensure the Chrome browser and ChromeDriver are compatible versions.
-
 Feel free to contribute or report issues!
