@@ -1,6 +1,6 @@
 # musecore2pdf
 
-##Notes
+## Notes
 A graphical interface has been added, you just have to run the gui.py file.
 
 ## Description
