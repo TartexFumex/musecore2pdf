@@ -1,5 +1,8 @@
 # musecore2pdf
 
+##Notes
+A graphical interface has been added, you just have to run the gui.py file.
+
 ## Description
 The `musecore2pdf` program is designed to convert MuseScore sheet music URLs into PDF files. It utilizes Selenium, ReportLab, and other Python libraries to automate the process of rendering each page of the MuseScore sheet music and saving them as a single PDF file. The script handles various scenarios, including the display of both SVG and PNG images on the MuseScore webpage.
 
